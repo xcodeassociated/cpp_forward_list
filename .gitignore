@@ -30,3 +30,26 @@
 *.exe
 *.out
 *.app
+
+# idea Clion
+*/.idea/
+
+# build dir
+build/*
+
+# cmake build dir
+*cmake-build-*/
+
+# CLion project
+*.idea/
+
+# MSVC
+/.vs
+/CMakeSettings.json
+/CppProperties.json
+
+# vs code
+.vscode
+
+# finder hidden files
+.DS_Store
